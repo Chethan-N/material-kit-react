@@ -1,4 +1,7 @@
 export default {
+  fontFamily: [
+    "'IBM Plex Sans', sans-serif"
+  ].join(','),
   h1: {
     fontWeight: 500,
     fontSize: 35,
